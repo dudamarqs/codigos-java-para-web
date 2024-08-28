@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atividade04 {
+public class ex04 {
     public static void main (String[] args) {
         double raio, perimetro, area;
 

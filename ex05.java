@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atividade05 {
+public class ex05 {
 
     public static final int TAM_MAX = 5; // definindo constante
     public static void main(String[] args) {

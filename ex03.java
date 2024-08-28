@@ -1,4 +1,4 @@
-public class atividade03 {
+public class ex03 {
     public static void main(String[] args) {
         int hora, minuto, segundo;
         int passaram, faltam;

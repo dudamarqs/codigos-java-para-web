@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atividade01 {
+public class ex01 {
     public static void main(String[] args) {
         int codigo, senha;
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atividade02 {
+public class ex02 {
     public static void main(String[] args) {
         int inicio, fim, primo=0;
 
