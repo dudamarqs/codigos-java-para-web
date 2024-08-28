@@ -9,7 +9,7 @@ public class atividade05 {
         Scanner sc = new Scanner(System.in);
 
         for(int i = 0; i < TAM_MAX; i++){
-            System.out.printf("Digite o valor " + i + " da lista: ");
+            System.out.printf("Digite o " + (i+1) + "º valor da lista: ");
             ARR[i] = sc.nextInt();
 
             for (int j = 0; j < TAM_MAX; j++){
